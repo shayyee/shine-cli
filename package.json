@@ -1,6 +1,5 @@
 {
   "name": "shine-cli",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],

@@ -5,7 +5,7 @@
   "author": "shayyee <xxy1024235202@163.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/utils.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
-  }
+  },
+  "gitHead": "5d832b885274a999fdf9c2ff6e7707cc6588fb0c"
 }
